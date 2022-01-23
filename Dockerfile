@@ -1,4 +1,4 @@
-# Pull base build image.
+# Pull base build image .
 FROM alpine:3.12 AS builder
 
 # Install packages.
